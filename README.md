@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Detection
+Credit card fraud detection uses machine learning and data analysis to identify suspicious transactions in real time. It analyzes spending patterns, transaction amounts, and locations to detect anomalies. Algorithms like logistic regression, decision trees, or neural networks help classify legitimate and fraudulent activities. This ensures security, reduces financial losses, and protects customer trust.
